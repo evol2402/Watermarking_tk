@@ -1,0 +1,2 @@
+Pillow==9.5.0
+tkinter  # This is typically included with Python, but you can specify a version if needed.
