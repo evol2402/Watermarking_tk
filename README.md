@@ -26,5 +26,6 @@ Pillow: Python Imaging Library (PIL) for image processing and manipulation.
 Tkinter: A standard Python interface for creating GUI applications, providing a simple interface for users to interact with the app.
 Screenshot
 
+![image](https://github.com/user-attachments/assets/f5631630-85d4-4779-82dd-d09b84adadd4)
 
-For more details, you can explore the app or visit the project link (if available).
+
